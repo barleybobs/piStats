@@ -1,0 +1,12 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+"hurry.filesize" = "*"
+pathlib = "*"
+psutil = "*"
+python = "^3.7"
+termcolor = "*"
+hurry = "^1.1"
