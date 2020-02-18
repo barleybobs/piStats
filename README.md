@@ -1,4 +1,7 @@
 # piStats
+[![Github All Releases](https://img.shields.io/badge/Made%20with-Python-blue)]()
+[![Github All Releases](https://img.shields.io/badge/Designed%20for-Raspberry%20Pi-red)]()
+
 ### Setup
 piStats is a display interface for use with **pi-hole** and a **samba server** but because it is coded in python, can easily be modified to display more information.
 
