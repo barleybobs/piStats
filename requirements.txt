@@ -2,4 +2,3 @@ hurry.filesize
 pathlib
 psutil
 termcolor
-hurry
